@@ -4,7 +4,7 @@
 
 Desafio com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/denisefbatista/ebook_gerado_por_ias/blob/main/book/ebook%20denise.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/denisefbatista/ebook_gerado_por_ias/blob/main/book/ebook%20ia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 
 ##  Tecnologias utilizadas:
